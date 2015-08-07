@@ -6,7 +6,7 @@ build:
                         theme: hyde-x
 deploy:
         steps:
-                - lukevevier/gh-pages:
+                - lukevivier/gh-pages:
                         token: $GIT_TOKEN
                         basedir: public
                         repo: pmikkelsen/pmikkelsen.github.io
