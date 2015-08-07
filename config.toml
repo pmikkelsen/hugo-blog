@@ -1,0 +1,24 @@
+baseurl = "pmikkelsen.github.io"
+languageCode = "en-us"
+title = "Blog"
+theme = "hyde-x"
+disqusShortname = "pmikkelsen-blog"
+
+[author]
+	name = "Peter Mikkelsen"
+
+[permalinks]
+	post = "/blog/:year/:month/:day/:title/"
+
+[taxonomies]
+	tag = "tags"
+	category = "categories"	
+[params]	
+	# color scheme for syntax highlighting
+	highlight = "obsidian"
+
+	# home link text (default is "Blog"
+	home = "Home"
+	tagline = "_A 2nd year student at [HTX](http://rybnershtx.dk/)_"
+	gravatarHash = "1c5b17bf5a16d75114cc9a90613d16b0"
+	github = "https://github.com/pmikkelsen"
