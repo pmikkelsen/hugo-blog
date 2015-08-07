@@ -6,6 +6,9 @@ build:
                         theme: hyde-x
 deploy:
         steps:
+                - install-packages:
+                        packages: git
+
                 - script:
                         name: Configure git
                         code: |-        
