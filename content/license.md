@@ -8,7 +8,7 @@ title = "License"
 
 
 ### License for content 
-All content written by me for this page is licenced under [Creative Commons BY 4.0.](http://creativecommons.org/licenses/by/4.0/)
+All content written by me for this page is licensed under [Creative Commons BY 4.0.](http://creativecommons.org/licenses/by/4.0/)
 This covers everything that is **not** code.
 
 ### License for code
