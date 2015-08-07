@@ -1,5 +1,5 @@
 +++
-categories = ["Golang"]
+categories = []
 date = "2015-08-05T17:15:11+02:00"
 description = ""
 keywords = []
