@@ -20,9 +20,9 @@ which means all users will have:
 > * The freedom to share the software with their friends and neighbors
 > * The freedom to share the changes they make
 
-The full license can be found [here](http://www.gnu.org/licenses/gpl-3.0.html)
+The full license can be found [here](http://www.gnu.org/licenses/gpl-3.0.html).
 
 ### Other works
 
-Whenever I include something (either code or other content), I will always provide a link
-to the source if possible.
+Whenever I include something that is not mine (either code or other content),
+I will always provide a link to the source if possible.
