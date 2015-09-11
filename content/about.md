@@ -8,6 +8,8 @@ title = "About me"
 menu = "main"
 +++
 
+_Note: This page will be updated as soon as it becomes "out of date"._
+
 ### Who am I?
 
 My name is Peter Mikkelsen, and I am a student at the technical gymnasium 
@@ -41,19 +43,15 @@ I was able to do something with it on my own.
 
 As far as Linux distributions go, I started with mint, and then I have
 been jumping around mainly between [Fedora](https://getfedora.org/) and 
-[Archlinux](https://www.archlinux.org/). Currently I am using 
-Fedora 22 and I am really liking it. I like Arch for being 
-very cutting edge and configurable from the installation and up, but Fedora 
-just suits me better as it turns out I will be running gnome shell for 
-most of my desktop use anyways, and Fedora provides a more polished 
-experience than arch does.
+[Archlinux](https://www.archlinux.org/). Currently I am using Arch because
+I like Arch for being very cutting edge and configurable from the installation 
+and up.
 
 ### What am I interested in?
 
-At the moment, my biggest interest is learning [go](https://golang.org).
-The first reason is that I love to learn new languages, as it makes me 
-think different about problems, and the second reason is that go seems like
-a very good way for me to get into concurrent programming.
+At the moment, my biggest interest is learning [Haskell](https://haskell.org).
+The reason for trying to learn haskell again is that I really like the way
+you are programming in it, compared to C or Go for example.
 
 I am also very interested in the release of 
 [Vulkan](https://www.khronos.org/vulkan/), and the release of fedora 23.
