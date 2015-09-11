@@ -1,4 +1,4 @@
-box: fedora
+box: ubuntu
 build:
         steps:
                 - install-packages:
