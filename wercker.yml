@@ -10,7 +10,7 @@ build:
 deploy:
         steps:
                 - install-packages:
-                        packages: git
+                        packages: git-core
 
                 - script:
                         name: Configure git
