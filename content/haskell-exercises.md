@@ -22,6 +22,8 @@ Below is a list of links to pages with exercises.
 * [99 Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
 * [https://www.fer.unizg.hr/predmet/puh](https://www.fer.unizg.hr/predmet/puh) under homework
 * [1 Haskell A Day](https://github.com/1HaskellADay/1HAD)
+* [Cryptopals](http://cryptopals.com/) Just make the exercises in Haskell of course 
+* [chamlers.se](http://www.cse.chalmers.se/edu/course/TDA555/labs.html)
 
 Here are also some ideas for excersises:
 
@@ -43,5 +45,8 @@ Thanks to [Mob_Of_One](https://www.reddit.com/user/Mob_Of_One),
 [gilmi](https://www.reddit.com/user/gilmi),
 [nura2011](https://www.reddit.com/user/nura2011),
 [chillygarlic](https://www.reddit.com/user/chillygarlic),
-[dotneter](https://www.reddit.com/user/dotneter)
+[dotneter](https://www.reddit.com/user/dotneter),
+[thedufer](https://www.reddit.com/user/thedufer),
+[valderman](https://www.reddit.com/user/valderman)
+
 
