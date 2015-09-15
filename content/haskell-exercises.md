@@ -23,7 +23,7 @@ Below is a list of links to pages with exercises.
 * [https://www.fer.unizg.hr/predmet/puh](https://www.fer.unizg.hr/predmet/puh) under homework
 * [1 Haskell A Day](https://github.com/1HaskellADay/1HAD)
 * [Cryptopals](http://cryptopals.com/) Just make the exercises in Haskell of course 
-* [chamlers.se](http://www.cse.chalmers.se/edu/course/TDA555/labs.html)
+* [chalmers.se](http://www.cse.chalmers.se/edu/course/TDA555/labs.html)
 
 Here are also some ideas for excersises:
 
